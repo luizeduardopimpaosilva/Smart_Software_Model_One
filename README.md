@@ -1,0 +1,2 @@
+# Smart_Software_Model_One
+This project consists of developing a business management system. The most recent .NET programming techniques for Web application technology were used. The chosen Database was Microsoft SQL Server. The queries to create the entire database infrastructure were made in Microsoft SQL Management Studio v18.9.1. The C# programming language provides high quality and performance for the developed programs. The source programs were written in Framework Visual Studio 2019. The system was planned to work on a hardware platform in a Cloud environment.
